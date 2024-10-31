@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "uyGEbAeP6oCZGetSjCB10RgPl7fxcbqJwlKcIcY49xoogtexWrimgls+PAhf+D0wftCtAVymL7xBVsx58nOpAQ==",
+  "success": true,
+  "projectFilePath": "d:\\Study\\C_sharp\\CS033\\CS033.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.0\\microsoft.extensions.configuration.binder.7.0.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\7.0.0\\microsoft.extensions.configuration.fileextensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.configuration.json\\7.0.0\\microsoft.extensions.configuration.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\7.0.0\\microsoft.extensions.fileproviders.physical.7.0.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\7.0.0\\microsoft.extensions.filesystemglobbing.7.0.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\7.0.0\\microsoft.extensions.options.configurationextensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
