@@ -1,0 +1,79 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApplication1
+build_property.RootNamespace = WebApplication1
+build_property.ProjectDir = C:\Users\ADMIN\Source\Repos\Mango\WebApplication1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ADMIN\Source\Repos\Mango\WebApplication1
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ADMIN/Source/Repos/Mango/WebApplication1/CS033/webmvc/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1MwMzNcd2VibXZjXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Source/Repos/Mango/WebApplication1/CS033/webmvc/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1MwMzNcd2VibXZjXFZpZXdzXEhvbWVcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Source/Repos/Mango/WebApplication1/CS033/webmvc/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1MwMzNcd2VibXZjXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Source/Repos/Mango/WebApplication1/CS033/webmvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1MwMzNcd2VibXZjXFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Source/Repos/Mango/WebApplication1/CS033/webmvc/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1MwMzNcd2VibXZjXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Source/Repos/Mango/WebApplication1/CS033/webmvc/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1MwMzNcd2VibXZjXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Source/Repos/Mango/WebApplication1/CS033/web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1MwMzNcd2ViXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Source/Repos/Mango/WebApplication1/CS033/web/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1MwMzNcd2ViXFZpZXdzXEhvbWVcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Source/Repos/Mango/WebApplication1/CS033/web/Views/Home/ProductInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1MwMzNcd2ViXFZpZXdzXEhvbWVcUHJvZHVjdEluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Source/Repos/Mango/WebApplication1/CS033/web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1MwMzNcd2ViXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Source/Repos/Mango/WebApplication1/CS033/web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1MwMzNcd2ViXFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Source/Repos/Mango/WebApplication1/CS033/web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1MwMzNcd2ViXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Source/Repos/Mango/WebApplication1/CS033/web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1MwMzNcd2ViXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Source/Repos/Mango/WebApplication1/CS033/webmvc/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1MwMzNcd2VibXZjXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-unpcdws5gi
+
+[C:/Users/ADMIN/Source/Repos/Mango/WebApplication1/CS033/web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q1MwMzNcd2ViXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-xqhe9tnvtp

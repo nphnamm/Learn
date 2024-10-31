@@ -1,0 +1,14 @@
+{
+    "section-1" :{
+
+        "key-1": "C-Sharp",
+        "key-2": 1502
+
+    },
+    "MyServiceOptions":{
+        "data1" :"Learn dependency inject",
+        "data2": 12345
+    }
+
+
+}
