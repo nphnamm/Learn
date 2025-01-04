@@ -76,4 +76,10 @@ namespace Mango.Web.Service
                 return dto;
             }
         }
+
+        public Task<ResponseDto?> SendAsync(ResponseDto responseDto)
+        {
+            throw new NotImplementedException();
+        }
     }
+}
